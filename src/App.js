@@ -4,7 +4,10 @@ function App() {
   return (
     <div className="App">
       <h1>Hello world.</h1>
-      <p>I am Emmanuel Ackah Tanoe Eshun, this is my first React</p>
+      <p>Emmanuel Ackah Tanoe Eshun</p>
+      <p>B.E Computer Engineering</p>
+      <p>Front-End Developer</p>
+      <p>HTML, CSS, JavaScript, React</p>
     </div>
   );
 }
